@@ -1,5 +1,5 @@
 <a>
-    <pre lang='/" data-diff-for-path=(https://raw.githubusercontent.com/smartaptlimited/new/main/aaa.json) '>
+    <pre lang='/" data-diff-for-path=https://raw.githubusercontent.com/smartaptlimited/new/main/aaa.json '>
         <code lang="wavedrom">csp</code>
     </pre>
     <pre
